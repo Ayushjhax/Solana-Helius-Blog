@@ -57,7 +57,7 @@ Open your web browser and go to http://localhost:3000 to access Solana-Helius-Bl
 ![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/5a1ccdbf-20a8-40ca-b713-6df67936493e)
 
 
-## Authors
+## Author
 
 Ayush Kumar Jha\
 GitHub: @Ayushjhax
