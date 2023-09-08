@@ -1,8 +1,5 @@
 # Solana-Helius-Blog
 
-
-# Solana-Helius-Blog
-
 ## Description
 
 Solana-Helius-Blog is a blockchain-enabled blogging platform that leverages the power of blockchain technology, specifically the Solana blockchain, and the Helius RPC. This platform aims to revolutionize the way bloggers create, share, and monetize their content while addressing some of the key challenges faced by traditional centralized blogging platforms.
