@@ -54,7 +54,7 @@ Open your web browser and go to http://localhost:3000 to access Solana-Helius-Bl
 ![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/e9441038-d25b-4f23-bc8c-c728ac089519)\
 ![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/40a5dda3-66ea-4d52-8f8a-d7e5e7efa852)\
 ![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/240790cf-9b1f-4a79-bb24-e458de06f249)\
-![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/5a1ccdbf-20a8-40ca-b713-6df67936493e)\
+![image](https://github.com/Ayushjhax/Solana-Helius-Blog/assets/116433617/5a1ccdbf-20a8-40ca-b713-6df67936493e)
 
 
 ## Authors
