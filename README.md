@@ -38,7 +38,7 @@ Before you begin, ensure you have met the following requirements:
 Navigate to the Project Directory:
 
 ```bash
-  npm run deploy
+  cd app
 ```
 ## Run the Project:
 ```bash
